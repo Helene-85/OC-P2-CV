@@ -67,6 +67,7 @@ a:hover {
     background-color: #A5D6A7;
     width: 300px;
     display: flex;
+    justify-content: space-between;
     flex-direction: column;
 }
 
@@ -87,6 +88,7 @@ a:hover {
     color: #A5D6A7;
     margin: auto;
     text-align: center;
+    padding: 5px 0px;
 }
 
 .sidebar ul, p {
@@ -97,7 +99,7 @@ a:hover {
 
 .sidebar-icones {
     text-align: center;
-    padding-top: 40px;
+    padding : 40px 0px;
 }
 
 .sidebar-i {
