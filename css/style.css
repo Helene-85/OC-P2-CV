@@ -123,9 +123,12 @@ a:hover {
 }
 
 main {
-    padding-top: 50px;
+    padding-top: 40px;
     padding-left: 40px;
     padding-right: 40px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
 }
 
 main h3 {
@@ -156,7 +159,6 @@ main h4 h5 {
 .formation {
     display: flex;
     flex-direction: column;
-    margin-top: 100px;
 }
 
 .formation-titre, .experience-titre, .recommandation-titre {
@@ -211,11 +213,6 @@ main h4 h5 {
 .experience {
     display: flex;
     flex-direction: column;
-    margin-top: 50px;
-}
-
-.recommandation {
-    margin-top: 50px;
 }
 
 .reco {
