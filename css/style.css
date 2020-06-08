@@ -299,12 +299,13 @@ main p {
 
 main h3 {
     padding-left: 5px;
+    font-size: 1.3em;
 }
 
 .recommandation {
     width: auto;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
 }
 
 .formation-titre, .experience-titre, .recommandation-titre {
@@ -354,7 +355,7 @@ main h3 {
 
 .icone-titre {
     margin-right : 5px;
-    font-size: 1.6em;
+    font-size: 1.3em;
     color: #4CAF50;
 }
 
