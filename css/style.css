@@ -159,6 +159,7 @@ main h4 h5 {
 .formation {
     display: flex;
     flex-direction: column;
+    margin-top: 20px;
 }
 
 .formation-titre, .experience-titre, .recommandation-titre {
