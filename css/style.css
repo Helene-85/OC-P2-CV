@@ -159,7 +159,7 @@ main h4 h5 {
 .formation {
     display: flex;
     flex-direction: column;
-    margin-top: 20px;
+    margin-top: 150px;
 }
 
 .formation-titre, .experience-titre, .recommandation-titre {
@@ -214,6 +214,8 @@ main h4 h5 {
 .experience {
     display: flex;
     flex-direction: column;
+    margin-top: 100px;
+    margin-bottom: 150px;
 }
 
 .reco {
@@ -233,6 +235,7 @@ main h4 h5 {
 
 .reco p {
     padding-left: 20px;
+    margin-bottom: 10px;
 }
 
 @media all and (max-width: 768px) {
@@ -243,7 +246,7 @@ main h4 h5 {
 }
 
 h1 {
-    font-size: 2em;
+    font-size: 2.8em;
 }
 
 .header-prenom {
@@ -295,6 +298,8 @@ main p {
     width: auto;
     margin-left: 10px;
     margin-right: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 main h3 {
