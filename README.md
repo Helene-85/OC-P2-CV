@@ -1,4 +1,4 @@
-Lien vers la page web : https://helene-mb.github.io/OC-P2/
+Lien vers la page web : https://helene-mb.github.io/OC-P2-CV/
 
 - Réalisé par : Hélène Bunel
 - Contenu : Site web du projet 2 de la formation Développeur Web Junior d'Openclassrooms "Transformez votre CV en site Web"
